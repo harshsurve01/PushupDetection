@@ -52,7 +52,7 @@ pip install kivy
 1. Run the application:
 
 ```bash
-python main.py
+python pushups.py
 ```
 
 2. Click **Start Pushup Session** and get into position.
