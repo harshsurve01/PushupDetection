@@ -59,7 +59,6 @@ python main.py
 
 3. The app will count your push-ups automatically based on proper form.
 
-4. Check your lifetime push-ups on the **Reward Screen**.
 
 ---
 
@@ -77,9 +76,8 @@ python main.py
 ```
 PushupDetection/
 │
-├─ main.py           # Main application code
+├─ pushups.py           # Main application code
 ├─ README.md         # This readme file
-└─ requirements.txt  # Optional, list dependencies here
 ```
 
 ---
