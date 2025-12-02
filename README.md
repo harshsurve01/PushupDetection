@@ -23,7 +23,6 @@ A Python application that uses **OpenCV** and **CVZone Pose Detection** to count
 * Display a live camera feed with push-up detection overlay.
 * Countdown timer before starting the session.
 * Detects correct push-up form: horizontal body and elbow angles.
-* Rewards screen showing total lifetime push-ups.
 
 ---
 
